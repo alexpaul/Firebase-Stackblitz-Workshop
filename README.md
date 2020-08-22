@@ -6,6 +6,8 @@ Workshop led by Frank va Pullelen. We build two web apps during the workshop.
 
 ## Wether app
 
+#### HTML 
+
 ```html 
 <label>Loading weather...</label>
 <br><br>
@@ -13,6 +15,8 @@ Workshop led by Frank va Pullelen. We build two web apps during the workshop.
 <button>Foggy</button>
 <button>Smoky</button>
 ```
+
+#### JavaScript 
 
 ```javasctipt 
 // Import stylesheets
@@ -41,6 +45,8 @@ ref.on("value", (snapshot) => {
 
 ## Chat app
 
+#### HTML 
+
 ```html 
 <ol>Loading messages...</ol>
 
@@ -49,6 +55,8 @@ ref.on("value", (snapshot) => {
   <input type='submit'>
 </form>
 ```
+
+#### JavaScript 
 
 ```javasctipt 
 // Import stylesheets
