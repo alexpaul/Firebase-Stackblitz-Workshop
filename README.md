@@ -24,7 +24,7 @@ The Realtime database was used for the weather app.
 
 #### JavaScript 
 
-```javasctipt 
+```javascript
 // Import stylesheets
 import './style.css';
 
