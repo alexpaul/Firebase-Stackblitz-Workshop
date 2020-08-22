@@ -4,7 +4,7 @@ Firebase / Stackblitz workshop.
 
 Workshop led by Frank va Pullelen. We built two web apps during the workshop. 
 
-## Wether app
+## Weather app
 
 #### HTML 
 
