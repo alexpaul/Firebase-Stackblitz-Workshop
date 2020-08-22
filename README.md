@@ -1,12 +1,16 @@
 # Firebase Stackblitz Workshop
 
-Workshop led by [Frank van Pullelen](https://twitter.com/puf). We built two web apps during the workshop. The web apps was built using [Stackblitz](https://stackblitz.com) and the backend is done using Firebase.
+Workshop led by [Frank van Pullelen](https://twitter.com/puf). We built two web apps during the workshop. The web apps were built using [Stackblitz](https://stackblitz.com) and the backend is done using Firebase.
 
 ## Weather app
 
-In the weather app when the user selects a weather button firestore db gets updated. 
+In the weather app when the user selects a weather button firestore database gets updated. 
 
-Used realtime database for the weather app. 
+The Realtime database was used for the weather app. 
+
+#### Web app
+
+![weather app](Assets/weatherapp.png)
 
 #### HTML 
 
@@ -17,10 +21,6 @@ Used realtime database for the weather app.
 <button>Foggy</button>
 <button>Smoky</button>
 ```
-
-#### Web app
-
-![weather app](Assets/weatherapp.png)
 
 #### JavaScript 
 
@@ -57,9 +57,9 @@ Create a Firebase project `weatherapp` via your Firebase console.
 
 ## Chat app
 
-In this chat app when the user add a new chat and presses the "submit" button it get sent to Firestore and also renders in the web app. 
+In this chat app when the user adds a new chat message and presses the "submit" button it gets sent to Firestore database and also renders in the web app. 
 
-Used firestore for the chat app. Firestore has better offline support. More scaling support for a a huge number of users. 
+Firebase Firestore was used for the chat app. Firestore has better offline support. More scaling support for a a huge number of users. 
 
 #### HTML 
 
