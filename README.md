@@ -2,7 +2,7 @@
 
 Firebase / Stackblitz workshop.
 
-Workshop led by [Frank van Pullelen](https://twitter.com/puf). We built two web apps during the workshop. 
+Workshop led by [Frank van Pullelen](https://twitter.com/puf). We built two web apps during the workshop. The web apps was built using [Stackblitz](https://stackblitz.com) and the backend is done using Firebase.
 
 ## Weather app
 
