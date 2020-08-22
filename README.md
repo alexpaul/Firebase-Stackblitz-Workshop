@@ -12,6 +12,8 @@ The Realtime database was used for the weather app.
 
 ![weather app](Assets/weatherapp.png)
 
+[weather app](https://js-weathersf.stackblitz.io)
+
 #### HTML 
 
 ```html 
@@ -91,6 +93,8 @@ Firebase Firestore was used for the chat app. Firestore has better offline suppo
 #### Web app
 
 ![chat app](Assets/chatapp.png)
+
+[chatapp](https://js-chatapp.stackblitz.io/)
 
 #### JavaScript 
 
