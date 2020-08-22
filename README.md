@@ -110,3 +110,4 @@ chat.orderBy("timestamp", "desc").limit(10).onSnapshot((querySnatshot) => {
 
 1. [Stackblitz - online web IDE](https://stackblitz.com)
 2. [Firebase Console - Here you create and manage your Firebase projects](https://console.firebase.google.com/u/0/)
+3. [Frank va Pullelen @puf on Twitter](https://twitter.com/puf)
