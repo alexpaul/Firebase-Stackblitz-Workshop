@@ -139,3 +139,4 @@ Create a Firebase project `chatapp` via your Firebase console.
 1. [Stackblitz - online web IDE](https://stackblitz.com)
 2. [Firebase Console - Here you create and manage your Firebase projects](https://console.firebase.google.com/u/0/)
 3. [Frank va Pullelen @puf on Twitter](https://twitter.com/puf)
+4. [Meetup Event](https://www.meetup.com/gdgnyc/events/272257853)
