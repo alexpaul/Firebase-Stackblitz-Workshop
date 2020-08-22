@@ -94,7 +94,7 @@ Firebase Firestore was used for the chat app. Firestore has better offline suppo
 
 #### JavaScript 
 
-```javasctipt 
+```javascript 
 // Import stylesheets
 import './style.css';
 
