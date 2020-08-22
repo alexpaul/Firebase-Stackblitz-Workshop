@@ -55,6 +55,20 @@ Create a Firebase project `weatherapp` via your Firebase console.
 
 ![realtime](Assets/weatherapp-realtime.png)
 
+#### Realtiem Database Rules 
+
+```javascript
+{
+  "rules": {
+    "weather": {
+      ".read": true,
+      ".write": true,
+      ".validate": "newData.isString() && newData.val().matches(/^(Sunny|Foggy)/)" 
+    }    
+  }
+}
+```
+
 ## Chat app
 
 In this chat app when the user adds a new chat message and presses the "submit" button it gets sent to Firestore database and also renders in the web app. 
