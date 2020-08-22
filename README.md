@@ -51,6 +51,10 @@ ref.on("value", (snapshot) => {
 });
 ```
 
+#### Firebase Realtime Schema
+
+![realtime](Assets/weatherapp-realtime.png)
+
 ## Chat app
 
 In this chat app when the user add a new chat and presses the "submit" button it get sent to Firestore and also renders in the web app. 
@@ -121,6 +125,10 @@ chat.orderBy("timestamp", "desc").limit(10).onSnapshot((querySnatshot) => {
   }); 
 });
 ```
+
+#### Firebase Firestore Schema
+
+![firestore](Assets/chatapp-firestore.png)
 
 ## Resources 
 
