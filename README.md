@@ -53,6 +53,8 @@ ref.on("value", (snapshot) => {
 
 #### Firebase Realtime Schema
 
+Create a Firebase project `weatherapp` via your Firebase console. 
+
 ![realtime](Assets/weatherapp-realtime.png)
 
 ## Chat app
@@ -127,6 +129,8 @@ chat.orderBy("timestamp", "desc").limit(10).onSnapshot((querySnatshot) => {
 ```
 
 #### Firebase Firestore Schema
+
+Create a Firebase project `chatapp` via your Firebase console. 
 
 ![firestore](Assets/chatapp-firestore.png)
 
