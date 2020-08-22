@@ -12,8 +12,6 @@ The Realtime database was used for the weather app.
 
 ![weather app](Assets/weatherapp.png)
 
-[weather app](https://js-weathersf.stackblitz.io)
-
 #### HTML 
 
 ```html 
@@ -73,6 +71,9 @@ The Firebase Security Rules below makes sure that the new data being sent to the
 }
 ```
 
+#### [weather app](https://js-weathersf.stackblitz.io)
+
+
 ## Chat app
 
 In this chat app when the user adds a new chat message and presses the "submit" button it gets sent to Firestore database and also renders in the web app. 
@@ -93,8 +94,6 @@ Firebase Firestore was used for the chat app. Firestore has better offline suppo
 #### Web app
 
 ![chat app](Assets/chatapp.png)
-
-[chatapp](https://js-chatapp.stackblitz.io/)
 
 #### JavaScript 
 
@@ -151,6 +150,9 @@ chat.orderBy("timestamp", "desc").limit(10).onSnapshot((querySnatshot) => {
 Create a Firebase project `chatapp` via your Firebase console. 
 
 ![firestore](Assets/chatapp-firestore.png)
+
+#### [chatapp](https://js-chatapp.stackblitz.io/)
+
 
 ## Resources 
 
