@@ -16,6 +16,8 @@ Workshop led by Frank va Pullelen. We built two web apps during the workshop.
 <button>Smoky</button>
 ```
 
+#### Web app
+
 ![weather app](Assets/weatherapp.png)
 
 #### JavaScript 
@@ -57,6 +59,8 @@ ref.on("value", (snapshot) => {
   <input type='submit'>
 </form>
 ```
+
+#### Web app
 
 ![chat app](Assets/chatapp.png)
 
