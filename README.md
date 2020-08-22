@@ -55,7 +55,9 @@ Create a Firebase project `weatherapp` via your Firebase console.
 
 ![realtime](Assets/weatherapp-realtime.png)
 
-#### Realtiem Database Rules 
+#### Realtime Database Rules 
+
+The Firebase Security Rules below makes sure that the new data being sent to the database is a `String` and that it matches either `Sunny` or `Foggy` (San Francisco weather ☀️ 🌁) using Regular expressions. 
 
 ```javascript
 {
