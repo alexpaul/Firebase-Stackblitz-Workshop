@@ -6,6 +6,10 @@ Workshop led by Frank va Pullelen. We built two web apps during the workshop.
 
 ## Weather app
 
+In the weather app when the user selects a weather button firestore db gets updated. 
+
+Used realtime database for the weather app. 
+
 #### HTML 
 
 ```html 
@@ -48,6 +52,10 @@ ref.on("value", (snapshot) => {
 ```
 
 ## Chat app
+
+In this chat app when the user add a new chat and presses the "submit" button it get sent to Firestore and also renders in the web app. 
+
+Used firestore for the chat app. Firestore has better offline support. More scaling support for a a huge number of users. 
 
 #### HTML 
 
