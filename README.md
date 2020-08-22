@@ -1,6 +1,6 @@
 # Firebase Stackblitz Workshop
 
-Workshop led by [Frank van Pullelen](https://twitter.com/puf). We built two web apps during the workshop. The web apps were built using [Stackblitz](https://stackblitz.com) and the backend is done using Firebase.
+Workshop led by [Frank van Puffelen](https://twitter.com/puf). We built two web apps during the workshop. The web apps were built using [Stackblitz](https://stackblitz.com) and the backend is done using Firebase.
 
 ## Weather app
 
@@ -158,5 +158,5 @@ Create a Firebase project `chatapp` via your Firebase console.
 
 1. [Stackblitz - online web IDE](https://stackblitz.com)
 2. [Firebase Console - Here you create and manage your Firebase projects](https://console.firebase.google.com/u/0/)
-3. [Frank va Pullelen @puf on Twitter](https://twitter.com/puf)
+3. [Frank va Puffelen @puf on Twitter](https://twitter.com/puf)
 4. [Meetup Event](https://www.meetup.com/gdgnyc/events/272257853)
